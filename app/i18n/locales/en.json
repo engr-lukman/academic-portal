@@ -1,0 +1,259 @@
+{
+  "app": {
+    "title": "Academic Portal",
+    "welcome": "Welcome to Academic Portal",
+    "description": "Excellence in Education - Shaping Tomorrow's Leaders",
+    "copyright": "© {year} Academic Portal. All rights reserved."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "academics": "Academics",
+    "admissions": "Admissions",
+    "departments": "Departments",
+    "faculty": "Faculty",
+    "research": "Research",
+    "campus_life": "Campus Life",
+    "student_portal": "Student Portal",
+    "examinations": "Examinations",
+    "administration": "Administration",
+    "contact": "Contact"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "apply_now": "Apply Now",
+    "read_more": "Read More",
+    "view_all": "View All",
+    "get_started": "Get Started",
+    "contact_us": "Contact Us",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "and": "and",
+    "or": "or",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information"
+  },
+  "hero": {
+    "title": "Excellence in Education",
+    "subtitle": "Shaping Tomorrow's Leaders",
+    "description": "Join our prestigious academic community where innovation meets tradition, and every student is empowered to achieve their highest potential.",
+    "apply_admission": "Apply for Admission",
+    "explore_programs": "Explore Programs"
+  },
+  "features": {
+    "title": "Why Choose Our Institution?",
+    "subtitle": "We provide world-class education with a commitment to excellence, innovation, and student success.",
+    "academic_excellence": {
+      "title": "Academic Excellence",
+      "description": "Rigorous curriculum designed by leading educators and industry experts to ensure comprehensive learning."
+    },
+    "research_innovation": {
+      "title": "Research & Innovation",
+      "description": "Cutting-edge research facilities and programs that foster innovation and critical thinking skills."
+    },
+    "expert_faculty": {
+      "title": "Expert Faculty",
+      "description": "Dedicated and experienced teachers committed to nurturing each student's unique potential and talents."
+    },
+    "modern_technology": {
+      "title": "Modern Technology",
+      "description": "State-of-the-art facilities and digital learning tools to enhance the educational experience."
+    },
+    "global_community": {
+      "title": "Global Community",
+      "description": "International programs and partnerships that provide students with a global outlook and cultural awareness."
+    },
+    "career_support": {
+      "title": "Career Support",
+      "description": "Comprehensive career guidance and placement support to help students achieve their professional goals."
+    }
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Comprehensive educational programs tailored for different age groups and learning objectives.",
+    "elementary": {
+      "title": "Elementary Education",
+      "description": "Foundation building years focusing on core subjects and developing fundamental learning skills."
+    },
+    "middle_school": {
+      "title": "Middle School",
+      "description": "Transitional years with increased academic rigor and introduction to specialized subjects."
+    },
+    "high_school": {
+      "title": "High School",
+      "description": "College preparatory curriculum with advanced placement courses and career guidance."
+    }
+  },
+  "news": {
+    "title": "Latest News & Events",
+    "subtitle": "Stay updated with school activities, achievements, and upcoming events.",
+    "science_fair": {
+      "title": "Science Fair 2025",
+      "description": "Students showcase innovative projects in our annual science fair. Amazing discoveries and creativity on display."
+    },
+    "sports_championship": {
+      "title": "Sports Championship",
+      "description": "Our school teams excel in regional sports competitions, bringing home multiple trophies and medals."
+    },
+    "stem_lab": {
+      "title": "New STEM Lab Opening",
+      "description": "State-of-the-art STEM laboratory equipped with modern technology opens its doors to students."
+    }
+  },
+  "cta": {
+    "title": "Ready to Join Our Community?",
+    "subtitle": "Take the first step towards an exceptional educational journey. Our admissions team is here to guide you through the process.",
+    "start_application": "Start Application"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn more about our institution",
+    "description": "We are committed to providing quality education and fostering the holistic development of our students.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide world-class education that empowers students to become leaders and innovators in their chosen fields."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a globally recognized institution that shapes the future through excellence in education and research."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Integrity, excellence, innovation, and inclusivity are the core values that guide everything we do."
+    }
+  },
+  "admissions": {
+    "title": "Admissions",
+    "subtitle": "Join Our Academic Community",
+    "description": "Learn about our admission process and requirements to become part of our educational excellence.",
+    "process": {
+      "step1": {
+        "title": "Apply Online",
+        "description": "Complete your application form online with all required information."
+      },
+      "step2": {
+        "title": "Submit Documents",
+        "description": "Upload all required documents and academic transcripts."
+      },
+      "step3": {
+        "title": "Interview",
+        "description": "Attend an admission interview with our academic committee."
+      },
+      "step4": {
+        "title": "Enrollment",
+        "description": "Complete enrollment process and begin your academic journey."
+      }
+    },
+    "requirements": {
+      "title": "Admission Requirements",
+      "academic": {
+        "title": "Academic Requirements",
+        "item1": "High school diploma or equivalent",
+        "item2": "Minimum GPA of 3.0",
+        "item3": "English proficiency test scores"
+      },
+      "documents": {
+        "title": "Required Documents",
+        "item1": "Completed application form",
+        "item2": "Official transcripts",
+        "item3": "Letters of recommendation"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "description": "We'd love to hear from you. Contact us for any inquiries or to schedule a visit.",
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "value": "123 Education Street, Academic City, AC 12345"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+1 (555) 123-4567"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info{'@'}academicportal.edu"
+      },
+      "hours": {
+        "title": "Office Hours",
+        "value": "Monday - Friday: 9:00 AM - 5:00 PM"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "Enter your first name",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Enter your last name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your inquiry..."
+    }
+  },
+  "themes": {
+    "blue": "Blue Theme",
+    "green": "Green Theme",
+    "purple": "Purple Theme",
+    "red": "Red Theme"
+  },
+  "languages": {
+    "en": "English",
+    "bn": "বাংলা"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "programs": "Programs",
+    "contact": "Contact"
+  },
+  "academics": {
+    "title": "Academic Programs",
+    "subtitle": "Comprehensive Learning Experience",
+    "description": "Explore our diverse range of academic programs designed to prepare students for success in their chosen fields."
+  },
+  "departments": {
+    "title": "Departments",
+    "subtitle": "Specialized Learning Areas",
+    "description": "Our departments offer specialized education and research opportunities across various disciplines."
+  },
+  "faculty": {
+    "title": "Faculty",
+    "subtitle": "Expert Educators",
+    "description": "Meet our distinguished faculty members who bring expertise and passion to education."
+  },
+  "research": {
+    "title": "Research",
+    "subtitle": "Innovation & Discovery",
+    "description": "Cutting-edge research initiatives that push the boundaries of knowledge and innovation."
+  },
+  "campus_life": {
+    "title": "Campus Life",
+    "subtitle": "Vibrant Community",
+    "description": "Experience a rich campus life with diverse activities, clubs, and opportunities for personal growth."
+  },
+  "student_portal": {
+    "title": "Student Portal",
+    "subtitle": "Your Academic Hub",
+    "description": "Access your academic information, resources, and services through our student portal."
+  },
+  "examinations": {
+    "title": "Examinations",
+    "subtitle": "Assessment & Evaluation",
+    "description": "Information about examination schedules, procedures, and academic evaluation methods."
+  },
+  "administration": {
+    "title": "Administration",
+    "subtitle": "Leadership & Management",
+    "description": "Meet the administrative team that ensures smooth operations and excellent educational standards."
+  }
+}

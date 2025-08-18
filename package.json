@@ -1,0 +1,37 @@
+{
+  "name": "academic-portal",
+  "type": "module",
+  "private": true,
+   "scripts": {
+    "build": "rm -rf .nuxt .output && clear && nuxt build",
+    "dev": "rm -rf .nuxt .output && clear && nuxt dev -o",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "format": "prettier --write \"**/*.{js,ts,vue}\"",
+    "format:check": "prettier --check \"**/*.{js,ts,vue}\"",
+    "lint": "eslint \"**/*.{js,ts,vue}\"",
+    "lint:fix": "eslint \"**/*.{js,ts,vue}\" --fix"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "^1.7.1",
+    "@nuxt/icon": "^1.15.0",
+    "@nuxt/image": "^1.11.0",
+    "@nuxtjs/i18n": "^10.0.3",
+    "@tailwindcss/vite": "^4.1.11",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "eslint": "^9.32.0",
+    "nuxt": "^4.0.1",
+    "tailwindcss": "^4.1.11",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@iconify-json/material-symbols": "^1.2.30",
+    "@iconify-json/mdi": "^1.2.3",
+    "@iconify-json/uil": "^1.2.3",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.6.14"
+  }
+}

@@ -35,27 +35,54 @@
       <!-- Mission, Vision, Values Section -->
       <div class="mt-20 grid gap-8 md:grid-cols-3">
         <div class="rounded-xl bg-blue-50 p-8 text-center">
-          <div class="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-blue-600">
-            <Icon name="uil:target" class="h-8 w-8 text-white" />
+          <div
+            class="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-blue-600"
+          >
+            <Icon
+              name="uil:target"
+              class="h-8 w-8 text-white"
+            />
           </div>
-          <h3 class="title-3 mb-4 text-blue-900">{{ $t("about.mission.title") }}</h3>
-          <p class="paragraph-2 text-blue-700">{{ $t("about.mission.description") }}</p>
+          <h3 class="title-3 mb-4 text-blue-900">
+            {{ $t("about.mission.title") }}
+          </h3>
+          <p class="paragraph-2 text-blue-700">
+            {{ $t("about.mission.description") }}
+          </p>
         </div>
 
         <div class="rounded-xl bg-green-50 p-8 text-center">
-          <div class="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-green-600">
-            <Icon name="uil:eye" class="h-8 w-8 text-white" />
+          <div
+            class="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-green-600"
+          >
+            <Icon
+              name="uil:eye"
+              class="h-8 w-8 text-white"
+            />
           </div>
-          <h3 class="title-3 mb-4 text-green-900">{{ $t("about.vision.title") }}</h3>
-          <p class="paragraph-2 text-green-700">{{ $t("about.vision.description") }}</p>
+          <h3 class="title-3 mb-4 text-green-900">
+            {{ $t("about.vision.title") }}
+          </h3>
+          <p class="paragraph-2 text-green-700">
+            {{ $t("about.vision.description") }}
+          </p>
         </div>
 
         <div class="rounded-xl bg-purple-50 p-8 text-center">
-          <div class="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-purple-600">
-            <Icon name="uil:heart" class="h-8 w-8 text-white" />
+          <div
+            class="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-purple-600"
+          >
+            <Icon
+              name="uil:heart"
+              class="h-8 w-8 text-white"
+            />
           </div>
-          <h3 class="title-3 mb-4 text-purple-900">{{ $t("about.values.title") }}</h3>
-          <p class="paragraph-2 text-purple-700">{{ $t("about.values.description") }}</p>
+          <h3 class="title-3 mb-4 text-purple-900">
+            {{ $t("about.values.title") }}
+          </h3>
+          <p class="paragraph-2 text-purple-700">
+            {{ $t("about.values.description") }}
+          </p>
         </div>
       </div>
     </div>

@@ -7,7 +7,7 @@
           {{ $t("departments.description") }}
         </p>
       </div>
-      
+
       <div class="text-center">
         <p class="paragraph-1 text-gray-500">{{ $t("common.loading") }}</p>
       </div>

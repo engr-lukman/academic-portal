@@ -55,7 +55,7 @@ const themes = [
   },
   {
     value: "green",
-    name: "Nature Green", 
+    name: "Nature Green",
     color: "#059669",
     primaryColor: "#059669",
     secondaryColor: "#10b981",
@@ -70,7 +70,7 @@ const themes = [
   {
     value: "red",
     name: "Cardinal Red",
-    color: "#dc2626", 
+    color: "#dc2626",
     primaryColor: "#dc2626",
     secondaryColor: "#ef4444",
   },
@@ -90,15 +90,21 @@ const changeTheme = (themeValue) => {
   currentThemeValue.value = themeValue;
 
   // Apply theme CSS variables to document
-  const theme = themes.find(t => t.value === themeValue);
+  const theme = themes.find((t) => t.value === themeValue);
   if (theme) {
-    document.documentElement.style.setProperty('--theme-primary', theme.primaryColor);
-    document.documentElement.style.setProperty('--theme-secondary', theme.secondaryColor);
-    document.documentElement.setAttribute('data-theme', themeValue);
+    document.documentElement.style.setProperty(
+      "--theme-primary",
+      theme.primaryColor
+    );
+    document.documentElement.style.setProperty(
+      "--theme-secondary",
+      theme.secondaryColor
+    );
+    document.documentElement.setAttribute("data-theme", themeValue);
   }
 
   // Store in localStorage
-  if (typeof localStorage !== 'undefined') {
+  if (typeof localStorage !== "undefined") {
     localStorage.setItem("theme", themeValue);
   }
 
@@ -107,7 +113,7 @@ const changeTheme = (themeValue) => {
 
 // Load theme from localStorage on mount
 onMounted(() => {
-  if (typeof localStorage !== 'undefined') {
+  if (typeof localStorage !== "undefined") {
     const savedTheme = localStorage.getItem("theme") || "blue";
     changeTheme(savedTheme);
   }

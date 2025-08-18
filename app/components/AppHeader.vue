@@ -48,7 +48,7 @@
               />
             </button>
             <div
-              class="glass invisible absolute left-0 top-full mt-2 w-56 transform rounded-2xl opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:translate-y-2 group-hover:opacity-100"
+              class="glass invisible absolute top-full left-0 mt-2 w-56 transform rounded-2xl opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:translate-y-2 group-hover:opacity-100"
             >
               <div class="p-2">
                 <NuxtLinkLocale
@@ -85,7 +85,7 @@
               />
             </button>
             <div
-              class="glass invisible absolute left-0 top-full mt-2 w-56 transform rounded-2xl opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:translate-y-2 group-hover:opacity-100"
+              class="glass invisible absolute top-full left-0 mt-2 w-56 transform rounded-2xl opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:translate-y-2 group-hover:opacity-100"
             >
               <div class="p-2">
                 <NuxtLinkLocale
@@ -128,7 +128,7 @@
               />
             </button>
             <div
-              class="glass invisible absolute left-0 top-full mt-2 w-56 transform rounded-2xl opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:translate-y-2 group-hover:opacity-100"
+              class="glass invisible absolute top-full left-0 mt-2 w-56 transform rounded-2xl opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:translate-y-2 group-hover:opacity-100"
             >
               <div class="p-2">
                 <NuxtLinkLocale

@@ -11,41 +11,71 @@
 
       <!-- Programs Grid -->
       <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-        <div class="rounded-xl bg-white p-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
-          <div class="mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-blue-100">
-            <Icon name="uil:book-reader" class="h-8 w-8 text-blue-600" />
+        <div
+          class="rounded-xl bg-white p-8 shadow-lg transition-shadow duration-300 hover:shadow-xl"
+        >
+          <div
+            class="mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-blue-100"
+          >
+            <Icon
+              name="uil:book-reader"
+              class="h-8 w-8 text-blue-600"
+            />
           </div>
           <h3 class="title-3 mb-4">{{ $t("programs.elementary.title") }}</h3>
           <p class="paragraph-2 mb-6 text-gray-600">
             {{ $t("programs.elementary.description") }}
           </p>
-          <AppButton variant="outline" size="sm">
+          <AppButton
+            variant="outline"
+            size="sm"
+          >
             {{ $t("common.learn_more") }}
           </AppButton>
         </div>
 
-        <div class="rounded-xl bg-white p-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
-          <div class="mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-green-100">
-            <Icon name="uil:graduation-cap" class="h-8 w-8 text-green-600" />
+        <div
+          class="rounded-xl bg-white p-8 shadow-lg transition-shadow duration-300 hover:shadow-xl"
+        >
+          <div
+            class="mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-green-100"
+          >
+            <Icon
+              name="uil:graduation-cap"
+              class="h-8 w-8 text-green-600"
+            />
           </div>
           <h3 class="title-3 mb-4">{{ $t("programs.middle_school.title") }}</h3>
           <p class="paragraph-2 mb-6 text-gray-600">
             {{ $t("programs.middle_school.description") }}
           </p>
-          <AppButton variant="outline" size="sm">
+          <AppButton
+            variant="outline"
+            size="sm"
+          >
             {{ $t("common.learn_more") }}
           </AppButton>
         </div>
 
-        <div class="rounded-xl bg-white p-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
-          <div class="mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-purple-100">
-            <Icon name="uil:university" class="h-8 w-8 text-purple-600" />
+        <div
+          class="rounded-xl bg-white p-8 shadow-lg transition-shadow duration-300 hover:shadow-xl"
+        >
+          <div
+            class="mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-purple-100"
+          >
+            <Icon
+              name="uil:university"
+              class="h-8 w-8 text-purple-600"
+            />
           </div>
           <h3 class="title-3 mb-4">{{ $t("programs.high_school.title") }}</h3>
           <p class="paragraph-2 mb-6 text-gray-600">
             {{ $t("programs.high_school.description") }}
           </p>
-          <AppButton variant="outline" size="sm">
+          <AppButton
+            variant="outline"
+            size="sm"
+          >
             {{ $t("common.learn_more") }}
           </AppButton>
         </div>
@@ -53,10 +83,14 @@
 
       <!-- Academic Excellence Section -->
       <div class="mt-20">
-        <div class="rounded-2xl bg-gradient-to-r from-blue-600 to-purple-600 p-12 text-white">
+        <div
+          class="rounded-2xl bg-gradient-to-r from-blue-600 to-purple-600 p-12 text-white"
+        >
           <div class="grid items-center gap-8 lg:grid-cols-2">
             <div>
-              <h2 class="title-2 mb-6">{{ $t("features.academic_excellence.title") }}</h2>
+              <h2 class="title-2 mb-6">
+                {{ $t("features.academic_excellence.title") }}
+              </h2>
               <p class="paragraph-1 mb-8 opacity-90">
                 {{ $t("features.academic_excellence.description") }}
               </p>

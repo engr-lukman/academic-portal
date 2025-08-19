@@ -1,9 +1,7 @@
 <template>
-  <div>
-    <HeroSection />
-    <FeaturesSection />
-    <ProgramsSection />
-    <NewsSection />
-    <CallToActionSection />
-  </div>
+  <Home />
 </template>
+
+<script setup lang="ts">
+// No additional logic needed
+</script>

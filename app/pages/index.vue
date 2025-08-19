@@ -1,5 +1,5 @@
 <template>
-  <Home />
+  <HomeIndex />
 </template>
 
 <script setup lang="ts">

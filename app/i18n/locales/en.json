@@ -73,8 +73,38 @@
     }
   },
   "programs": {
-    "title": "Our Programs",
-    "subtitle": "Comprehensive educational programs tailored for different age groups and learning objectives.",
+    "title": "Our Academic Programs",
+    "subtitle": "Comprehensive educational programs designed to prepare students for success in their chosen fields and future careers.",
+    "undergraduate": {
+      "title": "Undergraduate Programs",
+      "description": "Bachelor's degree programs across multiple disciplines with comprehensive curriculum and hands-on learning experiences.",
+      "duration": "4 Years"
+    },
+    "graduate": {
+      "title": "Graduate Programs",
+      "description": "Master's degree programs offering specialized knowledge and advanced research opportunities in various fields.",
+      "duration": "2 Years"
+    },
+    "doctoral": {
+      "title": "Doctoral Programs",
+      "description": "PhD programs for aspiring researchers and scholars to contribute original knowledge to their field of study.",
+      "duration": "3-5 Years"
+    },
+    "professional": {
+      "title": "Professional Development",
+      "description": "Certificate and diploma programs designed for working professionals to enhance their skills and career prospects.",
+      "duration": "6-18 Months"
+    },
+    "online": {
+      "title": "Online Learning",
+      "description": "Flexible online degree and certificate programs that allow students to learn from anywhere in the world.",
+      "duration": "Flexible"
+    },
+    "continuing": {
+      "title": "Continuing Education",
+      "description": "Lifelong learning opportunities including workshops, seminars, and short courses for personal and professional growth.",
+      "duration": "Varies"
+    },
     "elementary": {
       "title": "Elementary Education",
       "description": "Foundation building years focusing on core subjects and developing fundamental learning skills."
@@ -89,8 +119,33 @@
     }
   },
   "news": {
-    "title": "Latest News & Events",
-    "subtitle": "Stay updated with school activities, achievements, and upcoming events.",
+    "title": "Latest News & Updates",
+    "subtitle": "Stay informed about our latest achievements, events, and developments in the academic community.",
+    "view_all": "View All News",
+    "academic_excellence_award": {
+      "title": "University Receives Academic Excellence Award",
+      "description": "Our institution has been honored with the prestigious Academic Excellence Award for outstanding contributions to higher education and student success. This recognition reflects our commitment to maintaining the highest standards of education and research."
+    },
+    "new_research_center": {
+      "title": "Opening of Advanced Research Center",
+      "description": "We are excited to announce the opening of our new state-of-the-art research center, equipped with cutting-edge technology and facilities. This center will enable groundbreaking research across multiple disciplines and foster innovation among our faculty and students."
+    },
+    "student_achievements": {
+      "title": "Students Win International Competition",
+      "description": "Our talented students have achieved remarkable success in the International Academic Olympiad, securing top positions in mathematics, science, and technology categories. This achievement demonstrates the exceptional quality of education and student support at our institution."
+    },
+    "international_partnership": {
+      "title": "New International Partnership Announced",
+      "description": "We have established a strategic partnership with leading universities worldwide to enhance student exchange programs, collaborative research opportunities, and global learning experiences. This partnership opens new doors for our students and faculty."
+    },
+    "technology_upgrade": {
+      "title": "Campus Technology Infrastructure Upgrade",
+      "description": "Our campus has completed a major technology infrastructure upgrade, including high-speed internet, smart classrooms, and digital learning platforms. These improvements will significantly enhance the teaching and learning experience for our entire community."
+    },
+    "community_outreach": {
+      "title": "Community Outreach Program Launch",
+      "description": "We are proud to launch our new community outreach program, aimed at providing educational support and resources to underserved communities. This initiative reflects our commitment to social responsibility and community engagement."
+    },
     "science_fair": {
       "title": "Science Fair 2025",
       "description": "Students showcase innovative projects in our annual science fair. Amazing discoveries and creativity on display."
@@ -111,45 +166,155 @@
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Learn more about our institution",
-    "description": "We are committed to providing quality education and fostering the holistic development of our students.",
+    "subtitle": "Excellence in Education Since 1999",
+    "description": "We are committed to providing world-class education that empowers students to become leaders and innovators in their chosen fields, fostering holistic development and lifelong learning.",
     "mission": {
       "title": "Our Mission",
-      "description": "To provide world-class education that empowers students to become leaders and innovators in their chosen fields."
+      "description": "To provide world-class education that empowers students to become leaders and innovators in their chosen fields while fostering critical thinking, creativity, and social responsibility."
     },
     "vision": {
       "title": "Our Vision",
-      "description": "To be a globally recognized institution that shapes the future through excellence in education and research."
+      "description": "To be a globally recognized institution that shapes the future through excellence in education, groundbreaking research, and meaningful community engagement."
     },
     "values": {
       "title": "Our Values",
-      "description": "Integrity, excellence, innovation, and inclusivity are the core values that guide everything we do."
+      "description": "Integrity, excellence, innovation, and inclusivity are the core values that guide everything we do and shape our institutional culture."
+    },
+    "core_values": {
+      "title": "Our Foundation",
+      "subtitle": "The principles that guide our educational mission and institutional culture"
+    },
+    "our_commitment": {
+      "title": "Our Commitment to Excellence"
+    },
+    "commitments": {
+      "excellence": {
+        "title": "Academic Excellence",
+        "description": "Maintaining the highest standards in teaching, research, and student achievement across all programs and disciplines."
+      },
+      "innovation": {
+        "title": "Innovation & Research",
+        "description": "Fostering a culture of innovation and supporting cutting-edge research that addresses global challenges."
+      },
+      "integrity": {
+        "title": "Integrity & Ethics",
+        "description": "Upholding the highest ethical standards in all our academic, research, and administrative activities."
+      },
+      "inclusivity": {
+        "title": "Diversity & Inclusion",
+        "description": "Creating an inclusive environment that celebrates diversity and provides equal opportunities for all."
+      }
+    },
+    "achievements": {
+      "title": "Our Achievements",
+      "subtitle": "Milestones that reflect our commitment to excellence and growth"
+    },
+    "stats": {
+      "students": {
+        "title": "Students",
+        "description": "Active learners from around the world"
+      },
+      "faculty": {
+        "title": "Faculty Members",
+        "description": "Expert educators and researchers"
+      },
+      "programs": {
+        "title": "Academic Programs",
+        "description": "Diverse fields of study"
+      },
+      "years": {
+        "title": "Years of Excellence",
+        "description": "Serving the academic community"
+      }
+    },
+    "history": {
+      "title": "Our Journey",
+      "subtitle": "Key milestones in our institutional development and growth"
+    },
+    "milestones": {
+      "founded": {
+        "title": "Institution Founded",
+        "description": "Established with a vision to provide quality education and foster innovation in learning."
+      },
+      "accreditation": {
+        "title": "Full Accreditation",
+        "description": "Received comprehensive accreditation recognizing our academic standards and quality."
+      },
+      "expansion": {
+        "title": "Campus Expansion",
+        "description": "Expanded facilities to accommodate growing student body and enhanced research capabilities."
+      },
+      "recognition": {
+        "title": "National Recognition",
+        "description": "Awarded national recognition for excellence in education and research innovation."
+      },
+      "digital": {
+        "title": "Digital Transformation",
+        "description": "Implemented comprehensive digital learning platforms and hybrid education models."
+      }
+    },
+    "leadership": {
+      "title": "Leadership Team",
+      "subtitle": "Experienced leaders guiding our institutional mission and vision",
+      "president": {
+        "position": "President & CEO",
+        "bio": "Leading the institution with a focus on academic excellence and strategic growth."
+      },
+      "provost": {
+        "position": "Provost & Chief Academic Officer",
+        "bio": "Overseeing academic programs and ensuring educational quality across all departments."
+      },
+      "dean_engineering": {
+        "position": "Dean of Engineering",
+        "bio": "Leading innovative engineering programs and fostering industry partnerships."
+      },
+      "dean_business": {
+        "position": "Dean of Business",
+        "bio": "Developing business programs that prepare students for global careers."
+      },
+      "dean_sciences": {
+        "position": "Dean of Sciences",
+        "bio": "Advancing scientific research and education in natural sciences."
+      },
+      "director_research": {
+        "position": "Director of Research",
+        "bio": "Coordinating research initiatives and fostering innovation across disciplines."
+      }
+    },
+    "cta": {
+      "title": "Join Our Academic Community",
+      "subtitle": "Become part of our legacy of excellence and start your journey towards academic and professional success."
     }
   },
   "admissions": {
     "title": "Admissions",
     "subtitle": "Join Our Academic Community",
-    "description": "Learn about our admission process and requirements to become part of our educational excellence.",
+    "description": "Learn about our admission process and requirements to become part of our educational excellence and vibrant academic community.",
+    "download_guide": "Download Admission Guide",
+    "download_brochure": "Download Brochure",
     "process": {
+      "title": "Admission Process",
+      "subtitle": "Simple steps to join our academic community",
       "step1": {
         "title": "Apply Online",
-        "description": "Complete your application form online with all required information."
+        "description": "Complete your application form online with all required information and personal statement."
       },
       "step2": {
         "title": "Submit Documents",
-        "description": "Upload all required documents and academic transcripts."
+        "description": "Upload all required documents, academic transcripts, and supporting materials."
       },
       "step3": {
         "title": "Interview",
-        "description": "Attend an admission interview with our academic committee."
+        "description": "Attend an admission interview with our academic committee to discuss your goals."
       },
       "step4": {
         "title": "Enrollment",
-        "description": "Complete enrollment process and begin your academic journey."
+        "description": "Complete enrollment process and begin your exciting academic journey with us."
       }
     },
     "requirements": {
       "title": "Admission Requirements",
+      "subtitle": "What you need to apply for admission",
       "academic": {
         "title": "Academic Requirements",
         "item1": "High school diploma or equivalent",
@@ -161,44 +326,145 @@
         "item1": "Completed application form",
         "item2": "Official transcripts",
         "item3": "Letters of recommendation"
+      },
+      "additional": {
+        "title": "Need Help with Requirements?",
+        "description": "Our admissions team is here to assist you with any questions about requirements, deadlines, or the application process.",
+        "contact": "Contact Admissions"
       }
+    },
+    "timeline": {
+      "title": "Important Dates",
+      "subtitle": "Key deadlines and dates for the admission process",
+      "application_open": {
+        "title": "Applications Open",
+        "description": "Online applications become available for the upcoming academic year."
+      },
+      "early_deadline": {
+        "title": "Early Decision Deadline",
+        "description": "Deadline for early decision applications with priority consideration."
+      },
+      "regular_deadline": {
+        "title": "Regular Admission Deadline",
+        "description": "Final deadline for regular admission applications."
+      },
+      "interview_period": {
+        "title": "Interview Period",
+        "description": "Admission interviews conducted for qualified candidates."
+      },
+      "decision_release": {
+        "title": "Admission Decisions",
+        "description": "Admission decisions released to all applicants."
+      },
+      "enrollment_deadline": {
+        "title": "Enrollment Deadline",
+        "description": "Final deadline to confirm enrollment and submit deposits."
+      }
+    },
+    "cta": {
+      "title": "Ready to Begin Your Journey?",
+      "subtitle": "Take the first step towards joining our academic community. Our admissions team is here to support you throughout the process."
     }
   },
   "contact": {
     "title": "Contact Us",
     "subtitle": "Get in Touch",
-    "description": "We'd love to hear from you. Contact us for any inquiries or to schedule a visit.",
+    "description": "We'd love to hear from you. Contact us for any inquiries, questions, or to schedule a campus visit.",
+    "call_us": "Call Us",
+    "email_us": "Email Us",
     "info": {
       "title": "Contact Information",
+      "subtitle": "Multiple ways to reach us",
       "address": {
-        "title": "Address",
+        "title": "Campus Address",
         "value": "123 Education Street, Academic City, AC 12345"
       },
       "phone": {
-        "title": "Phone",
+        "title": "Phone Number",
         "value": "+1 (555) 123-4567"
       },
       "email": {
-        "title": "Email",
-        "value": "info{'@'}academicportal.edu"
+        "title": "Email Address",
+        "value": "info@academicportal.edu"
       },
       "hours": {
         "title": "Office Hours",
         "value": "Monday - Friday: 9:00 AM - 5:00 PM"
       }
     },
+    "departments": {
+      "title": "Department Contacts",
+      "admissions": {
+        "title": "Admissions Office"
+      },
+      "academic_affairs": {
+        "title": "Academic Affairs"
+      },
+      "student_services": {
+        "title": "Student Services"
+      },
+      "financial_aid": {
+        "title": "Financial Aid"
+      },
+      "research": {
+        "title": "Research Office"
+      },
+      "international": {
+        "title": "International Affairs"
+      }
+    },
     "form": {
       "title": "Send us a Message",
+      "subtitle": "Fill out the form below and we'll get back to you as soon as possible.",
       "firstName": "First Name",
       "firstNamePlaceholder": "Enter your first name",
       "lastName": "Last Name",
       "lastNamePlaceholder": "Enter your last name",
-      "email": "Email",
+      "email": "Email Address",
       "emailPlaceholder": "Enter your email address",
       "subject": "Subject",
-      "subjectPlaceholder": "What is this about?",
+      "selectSubject": "Select a subject",
       "message": "Message",
-      "messagePlaceholder": "Tell us more about your inquiry..."
+      "messagePlaceholder": "Tell us more about your inquiry...",
+      "privacy": "I agree to the privacy policy and terms of service",
+      "other": "Other"
+    },
+    "quick_response": {
+      "title": "Quick Response Times",
+      "email_response": "Email: Within 24 hours",
+      "phone_response": "Phone: Available during office hours",
+      "chat_available": "Live chat: 9 AM - 5 PM weekdays"
+    },
+    "campus_visits": {
+      "title": "Campus Visits",
+      "description": "Schedule a personalized campus tour to experience our facilities and meet our community.",
+      "schedule": "Schedule a Visit"
+    },
+    "location": {
+      "title": "Find Our Campus",
+      "subtitle": "Located in the heart of the education district",
+      "map_description": "Click to view our campus location and get directions",
+      "get_directions": "Get Directions"
+    },
+    "transportation": {
+      "driving": {
+        "title": "Driving",
+        "description": "Convenient access via major highways with ample parking available.",
+        "parking": "Free parking available",
+        "cost": "No parking fees for visitors"
+      },
+      "public": {
+        "title": "Public Transportation",
+        "description": "Easily accessible by metro and bus routes throughout the city.",
+        "metro": "Metro: Blue Line to University Station",
+        "bus": "Bus: Routes 15, 22, 45"
+      },
+      "airport": {
+        "title": "From Airport",
+        "description": "Multiple transportation options available from the international airport.",
+        "distance": "30 minutes from airport",
+        "options": "Taxi, ride-share, airport shuttle"
+      }
     }
   },
   "themes": {
@@ -219,41 +485,322 @@
   "academics": {
     "title": "Academic Programs",
     "subtitle": "Comprehensive Learning Experience",
-    "description": "Explore our diverse range of academic programs designed to prepare students for success in their chosen fields."
+    "description": "Explore our diverse range of academic programs designed to prepare students for success in their chosen fields and future careers.",
+    "departments": {
+      "title": "Academic Departments",
+      "subtitle": "Specialized areas of study and research",
+      "engineering": {
+        "title": "Engineering & Technology",
+        "description": "Cutting-edge programs in computer science, electrical, mechanical, and civil engineering.",
+        "programs": [
+          "Computer Science",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Civil Engineering"
+        ]
+      },
+      "business": {
+        "title": "Business & Management",
+        "description": "Comprehensive business education with focus on leadership, entrepreneurship, and innovation.",
+        "programs": [
+          "Business Administration",
+          "Marketing",
+          "Finance",
+          "Management"
+        ]
+      },
+      "sciences": {
+        "title": "Natural Sciences",
+        "description": "Research-oriented programs in biology, chemistry, physics, and mathematics.",
+        "programs": ["Biology", "Chemistry", "Physics", "Mathematics"]
+      },
+      "liberal_arts": {
+        "title": "Liberal Arts & Humanities",
+        "description": "Diverse programs in literature, history, philosophy, and social sciences.",
+        "programs": [
+          "English Literature",
+          "History",
+          "Philosophy",
+          "Psychology"
+        ]
+      },
+      "health": {
+        "title": "Health Sciences",
+        "description": "Professional programs in medicine, nursing, pharmacy, and public health.",
+        "programs": ["Medicine", "Nursing", "Pharmacy", "Public Health"]
+      },
+      "education": {
+        "title": "Education",
+        "description": "Teacher preparation programs and educational leadership development.",
+        "programs": [
+          "Elementary Education",
+          "Secondary Education",
+          "Educational Leadership"
+        ]
+      }
+    },
+    "facilities": {
+      "title": "Academic Facilities",
+      "subtitle": "State-of-the-art learning environments",
+      "library": {
+        "title": "Central Library",
+        "description": "Modern library with extensive digital and physical collections, study spaces, and research support."
+      },
+      "laboratories": {
+        "title": "Research Laboratories",
+        "description": "Well-equipped labs for hands-on learning and cutting-edge research across all disciplines."
+      },
+      "classrooms": {
+        "title": "Smart Classrooms",
+        "description": "Technology-enhanced learning spaces with interactive whiteboards and multimedia capabilities."
+      },
+      "auditoriums": {
+        "title": "Lecture Halls",
+        "description": "Large capacity auditoriums for lectures, seminars, and academic events."
+      }
+    }
   },
   "departments": {
-    "title": "Departments",
+    "title": "Academic Departments",
     "subtitle": "Specialized Learning Areas",
-    "description": "Our departments offer specialized education and research opportunities across various disciplines."
+    "description": "Our departments offer specialized education and research opportunities across various disciplines, led by expert faculty and supported by state-of-the-art facilities."
   },
   "faculty": {
-    "title": "Faculty",
-    "subtitle": "Expert Educators",
-    "description": "Meet our distinguished faculty members who bring expertise and passion to education."
+    "title": "Our Faculty",
+    "subtitle": "Expert Educators & Researchers",
+    "description": "Meet our distinguished faculty members who bring expertise, passion, and dedication to education and research.",
+    "expertise": {
+      "title": "Faculty Expertise",
+      "subtitle": "Leading experts in their fields",
+      "research": {
+        "title": "Research Excellence",
+        "description": "Our faculty members are active researchers contributing to knowledge advancement in their respective fields."
+      },
+      "teaching": {
+        "title": "Teaching Excellence",
+        "description": "Dedicated educators committed to providing high-quality instruction and mentoring to students."
+      },
+      "industry": {
+        "title": "Industry Experience",
+        "description": "Faculty with real-world industry experience bringing practical insights to the classroom."
+      }
+    },
+    "achievements": {
+      "title": "Faculty Achievements",
+      "publications": "500+ Research Publications",
+      "grants": "$10M+ Research Grants",
+      "awards": "50+ Teaching Awards",
+      "patents": "25+ Patents Filed"
+    }
   },
   "research": {
-    "title": "Research",
+    "title": "Research & Innovation",
     "subtitle": "Innovation & Discovery",
-    "description": "Cutting-edge research initiatives that push the boundaries of knowledge and innovation."
+    "description": "Cutting-edge research initiatives that push the boundaries of knowledge and innovation, addressing global challenges and creating solutions for tomorrow.",
+    "areas": {
+      "title": "Research Areas",
+      "subtitle": "Diverse fields of investigation",
+      "artificial_intelligence": {
+        "title": "Artificial Intelligence",
+        "description": "Machine learning, natural language processing, and AI applications across various domains."
+      },
+      "sustainability": {
+        "title": "Sustainability & Environment",
+        "description": "Climate change research, renewable energy, and sustainable development solutions."
+      },
+      "biotechnology": {
+        "title": "Biotechnology & Health",
+        "description": "Medical research, drug discovery, and biotechnological innovations for healthcare."
+      },
+      "materials": {
+        "title": "Advanced Materials",
+        "description": "Nanotechnology, smart materials, and innovative manufacturing processes."
+      },
+      "social_sciences": {
+        "title": "Social Sciences",
+        "description": "Human behavior, policy analysis, and social impact research."
+      },
+      "data_science": {
+        "title": "Data Science",
+        "description": "Big data analytics, statistical modeling, and computational methods."
+      }
+    },
+    "centers": {
+      "title": "Research Centers",
+      "subtitle": "Dedicated research facilities",
+      "innovation_hub": {
+        "title": "Innovation Hub",
+        "description": "Collaborative space for interdisciplinary research and technology transfer."
+      },
+      "ai_center": {
+        "title": "AI Research Center",
+        "description": "Specialized facility for artificial intelligence and machine learning research."
+      },
+      "biotech_lab": {
+        "title": "Biotechnology Lab",
+        "description": "State-of-the-art laboratory for biological and medical research."
+      }
+    }
   },
   "campus_life": {
     "title": "Campus Life",
-    "subtitle": "Vibrant Community",
-    "description": "Experience a rich campus life with diverse activities, clubs, and opportunities for personal growth."
+    "subtitle": "Vibrant Community Experience",
+    "description": "Experience a rich campus life with diverse activities, clubs, and opportunities for personal growth and community engagement.",
+    "activities": {
+      "title": "Student Activities",
+      "subtitle": "Diverse opportunities for engagement",
+      "clubs": {
+        "title": "Student Clubs & Organizations",
+        "description": "Over 100 student organizations covering academic, cultural, recreational, and service interests."
+      },
+      "sports": {
+        "title": "Athletics & Recreation",
+        "description": "Competitive sports teams, intramural activities, and modern fitness facilities."
+      },
+      "arts": {
+        "title": "Arts & Culture",
+        "description": "Theater, music, visual arts, and cultural events throughout the academic year."
+      },
+      "leadership": {
+        "title": "Leadership Development",
+        "description": "Student government, leadership programs, and community service opportunities."
+      }
+    },
+    "facilities": {
+      "title": "Campus Facilities",
+      "dining": {
+        "title": "Dining Services",
+        "description": "Multiple dining options with diverse cuisines and dietary accommodations."
+      },
+      "housing": {
+        "title": "Student Housing",
+        "description": "Modern residence halls with various living arrangements and amenities."
+      },
+      "recreation": {
+        "title": "Recreation Center",
+        "description": "State-of-the-art fitness facilities, swimming pool, and sports courts."
+      },
+      "health": {
+        "title": "Health Services",
+        "description": "Comprehensive healthcare services and wellness programs for students."
+      }
+    }
   },
   "student_portal": {
     "title": "Student Portal",
     "subtitle": "Your Academic Hub",
-    "description": "Access your academic information, resources, and services through our student portal."
+    "description": "Access your academic information, resources, and services through our comprehensive student portal system.",
+    "services": {
+      "title": "Portal Services",
+      "academic": {
+        "title": "Academic Records",
+        "description": "Access grades, transcripts, course schedules, and degree progress tracking."
+      },
+      "registration": {
+        "title": "Course Registration",
+        "description": "Register for classes, view course availability, and manage your academic schedule."
+      },
+      "financial": {
+        "title": "Financial Services",
+        "description": "View billing information, make payments, and access financial aid details."
+      },
+      "communication": {
+        "title": "Communication Tools",
+        "description": "Email, announcements, and direct communication with faculty and staff."
+      }
+    },
+    "resources": {
+      "title": "Student Resources",
+      "library": {
+        "title": "Library Access",
+        "description": "Search catalog, reserve books, and access digital resources."
+      },
+      "career": {
+        "title": "Career Services",
+        "description": "Job postings, career counseling, and professional development resources."
+      },
+      "support": {
+        "title": "Academic Support",
+        "description": "Tutoring services, study groups, and academic assistance programs."
+      }
+    }
   },
   "examinations": {
     "title": "Examinations",
     "subtitle": "Assessment & Evaluation",
-    "description": "Information about examination schedules, procedures, and academic evaluation methods."
+    "description": "Information about examination schedules, procedures, and academic evaluation methods to ensure fair and comprehensive assessment.",
+    "schedule": {
+      "title": "Examination Schedule",
+      "midterm": {
+        "title": "Midterm Examinations",
+        "description": "Mid-semester assessments scheduled during the 8th week of each semester."
+      },
+      "final": {
+        "title": "Final Examinations",
+        "description": "Comprehensive end-of-semester examinations during the designated exam period."
+      },
+      "makeup": {
+        "title": "Makeup Examinations",
+        "description": "Alternative exam dates for students with valid reasons for missing scheduled exams."
+      }
+    },
+    "policies": {
+      "title": "Examination Policies",
+      "conduct": {
+        "title": "Academic Integrity",
+        "description": "Guidelines for maintaining academic honesty and ethical conduct during examinations."
+      },
+      "accommodations": {
+        "title": "Special Accommodations",
+        "description": "Support for students with disabilities or special needs during examinations."
+      },
+      "procedures": {
+        "title": "Exam Procedures",
+        "description": "Rules and regulations governing examination conduct and procedures."
+      }
+    }
   },
   "administration": {
     "title": "Administration",
     "subtitle": "Leadership & Management",
-    "description": "Meet the administrative team that ensures smooth operations and excellent educational standards."
+    "description": "Meet the administrative team that ensures smooth operations and maintains excellent educational standards throughout our institution.",
+    "leadership": {
+      "title": "Leadership Team",
+      "president": {
+        "title": "President",
+        "description": "Chief executive officer responsible for overall institutional leadership and strategic direction."
+      },
+      "provost": {
+        "title": "Provost",
+        "description": "Chief academic officer overseeing all academic programs and faculty affairs."
+      },
+      "deans": {
+        "title": "Academic Deans",
+        "description": "Leaders of individual schools and colleges within the university."
+      },
+      "registrar": {
+        "title": "Registrar",
+        "description": "Oversees student records, registration, and academic scheduling."
+      }
+    },
+    "departments": {
+      "title": "Administrative Departments",
+      "admissions": {
+        "title": "Admissions Office",
+        "description": "Manages student recruitment, applications, and enrollment processes."
+      },
+      "financial_aid": {
+        "title": "Financial Aid",
+        "description": "Provides guidance and support for student financial assistance programs."
+      },
+      "student_affairs": {
+        "title": "Student Affairs",
+        "description": "Supports student life, activities, and overall campus experience."
+      },
+      "facilities": {
+        "title": "Facilities Management",
+        "description": "Maintains campus infrastructure and provides operational support services."
+      }
+    }
   }
 }

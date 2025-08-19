@@ -1,3 +1,3 @@
 <template>
-  <ContactContent />
+  <ContactIndex />
 </template>

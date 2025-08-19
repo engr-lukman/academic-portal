@@ -1,3 +1,5 @@
 <template>
-  <AdmissionsContent />
+  <div>
+    <AdmissionsIndex />
+  </div>
 </template>

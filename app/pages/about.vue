@@ -1,3 +1,5 @@
 <template>
-  <AboutContent />
+  <div>
+    <AboutIndex />
+  </div>
 </template>

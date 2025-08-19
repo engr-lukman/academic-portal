@@ -1,3 +1,5 @@
 <template>
-  <AcademicsContent />
+  <div>
+    <AcademicsIndex />
+  </div>
 </template>

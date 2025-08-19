@@ -597,48 +597,106 @@
     "title": "Research & Innovation",
     "subtitle": "Innovation & Discovery",
     "description": "Cutting-edge research initiatives that push the boundaries of knowledge and innovation, addressing global challenges and creating solutions for tomorrow.",
-    "areas": {
-      "title": "Research Areas",
-      "subtitle": "Diverse fields of investigation",
-      "artificial_intelligence": {
-        "title": "Artificial Intelligence",
-        "description": "Machine learning, natural language processing, and AI applications across various domains."
-      },
-      "sustainability": {
-        "title": "Sustainability & Environment",
-        "description": "Climate change research, renewable energy, and sustainable development solutions."
-      },
-      "biotechnology": {
-        "title": "Biotechnology & Health",
-        "description": "Medical research, drug discovery, and biotechnological innovations for healthcare."
-      },
-      "materials": {
-        "title": "Advanced Materials",
-        "description": "Nanotechnology, smart materials, and innovative manufacturing processes."
-      },
-      "social_sciences": {
-        "title": "Social Sciences",
-        "description": "Human behavior, policy analysis, and social impact research."
-      },
-      "data_science": {
-        "title": "Data Science",
-        "description": "Big data analytics, statistical modeling, and computational methods."
+    "hero": {
+      "title": "Research & Innovation",
+      "subtitle": "Advancing knowledge and creating solutions for tomorrow's challenges through cutting-edge research and innovative discoveries.",
+      "exploreProjects": "Explore Projects",
+      "viewPublications": "View Publications",
+      "stats": {
+        "projects": "Active Projects",
+        "publications": "Publications",
+        "centers": "Research Centers",
+        "funding": "Annual Funding"
       }
     },
+    "areas": {
+      "title": "Research Areas",
+      "subtitle": "Diverse fields of investigation and innovation",
+      "activeProjects": "active projects",
+      "highlights": {
+        "title": "Research Highlights",
+        "description": "Our research initiatives have secured significant funding and established international collaborations, driving innovation across multiple disciplines.",
+        "viewProjects": "View All Projects",
+        "stats": {
+          "fundingSuccess": "Funding Success Rate",
+          "collaborations": "International Collaborations",
+          "patents": "Patents Filed",
+          "researchers": "Active Researchers"
+        }
+      }
+    },
+    "projects": {
+      "title": "Research Projects",
+      "subtitle": "Ongoing and completed research initiatives that drive innovation and discovery",
+      "featured": {
+        "badge": "Featured Project"
+      },
+      "funding": "Funding",
+      "duration": "Duration",
+      "viewDetails": "View Project Details",
+      "downloadReport": "Download Report",
+      "pi": "Principal Investigator",
+      "viewAllProjects": "View All Projects"
+    },
+    "publications": {
+      "title": "Publications & Research Output",
+      "subtitle": "Our faculty's scholarly contributions to the advancement of knowledge and research",
+      "stats": {
+        "totalPublications": "Total Publications",
+        "peerReviewed": "Peer Reviewed",
+        "citations": "Total Citations",
+        "topJournals": "Top Journals"
+      },
+      "recent": {
+        "title": "Recent Publications"
+      },
+      "citations": "citations",
+      "downloadPdf": "Download PDF",
+      "categories": {
+        "title": "Publication Categories"
+      },
+      "viewAll": "View All Publications"
+    },
     "centers": {
-      "title": "Research Centers",
-      "subtitle": "Dedicated research facilities",
-      "innovation_hub": {
-        "title": "Innovation Hub",
-        "description": "Collaborative space for interdisciplinary research and technology transfer."
+      "title": "Research Centers & Facilities",
+      "subtitle": "World-class research infrastructure supporting cutting-edge discoveries and innovation",
+      "featured": {
+        "badge": "Featured Center"
       },
-      "ai_center": {
-        "title": "AI Research Center",
-        "description": "Specialized facility for artificial intelligence and machine learning research."
+      "researchers": "Researchers",
+      "annualFunding": "Annual Funding",
+      "exploreCenter": "Explore Center",
+      "virtualTour": "Virtual Tour",
+      "facilities": {
+        "title": "Center Facilities",
+        "subtitle": "State-of-the-art infrastructure supporting world-class research"
+      }
+    },
+    "cta": {
+      "title": "Join Our Research Community",
+      "subtitle": "Collaborate with leading researchers and contribute to groundbreaking discoveries that shape the future.",
+      "collaborate": {
+        "title": "Research Collaboration",
+        "description": "Partner with our research teams on innovative projects and interdisciplinary studies.",
+        "action": "Explore Partnerships"
       },
-      "biotech_lab": {
-        "title": "Biotechnology Lab",
-        "description": "State-of-the-art laboratory for biological and medical research."
+      "funding": {
+        "title": "Funding Opportunities",
+        "description": "Discover grants, fellowships, and funding opportunities for your research projects.",
+        "action": "View Opportunities"
+      },
+      "careers": {
+        "title": "Research Careers",
+        "description": "Join our team of world-class researchers and advance your academic career.",
+        "action": "View Positions"
+      },
+      "getInTouch": "Get in Touch",
+      "newsletter": "Research Newsletter",
+      "stats": {
+        "activeProjects": "Active Projects",
+        "researchers": "Researchers",
+        "centers": "Research Centers",
+        "funding": "Annual Funding"
       }
     }
   },

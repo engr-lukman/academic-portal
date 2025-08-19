@@ -6,12 +6,12 @@
 
 <script setup>
 useHead({
-  title: "Departments - Dhaka International University",
+  title: "Departments - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Explore academic departments at Dhaka International University. Discover programs, faculty, and research opportunities across various disciplines.",
+        "Explore academic departments at Dhaka University. Discover programs, faculty, and research opportunities across various disciplines.",
     },
     {
       name: "keywords",
@@ -20,7 +20,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Departments - Dhaka International University",
+      content: "Departments - Dhaka University",
     },
     {
       property: "og:description",

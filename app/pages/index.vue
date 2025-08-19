@@ -4,21 +4,21 @@
 
 <script setup lang="ts">
 useHead({
-  title: "Dhaka International University - Excellence in Education",
+  title: "Dhaka University - Excellence in Education",
   meta: [
     {
       name: "description",
       content:
-        "Dhaka International University offers world-class education with innovative programs, expert faculty, and modern facilities. Join our academic community and shape your future.",
+        "Dhaka University offers world-class education with innovative programs, expert faculty, and modern facilities. Join our academic community and shape your future.",
     },
     {
       name: "keywords",
       content:
-        "Dhaka International University, higher education, university in Bangladesh, academic programs, undergraduate, graduate, research, student life",
+        "Dhaka University, higher education, university in Bangladesh, academic programs, undergraduate, graduate, research, student life",
     },
     {
       property: "og:title",
-      content: "Dhaka International University - Excellence in Education",
+      content: "Dhaka University - Excellence in Education",
     },
     {
       property: "og:description",
@@ -39,7 +39,7 @@ useHead({
     },
     {
       name: "twitter:title",
-      content: "Dhaka International University - Excellence in Education",
+      content: "Dhaka University - Excellence in Education",
     },
     {
       name: "twitter:description",

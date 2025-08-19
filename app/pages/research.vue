@@ -6,35 +6,32 @@
 
 <script setup>
 useHead({
-  title: "Research - Dhaka International University",
+  title: "Research - Dhaka University",
   meta: [
     {
       name: "description",
-      content:
-        "Discover cutting-edge research at Dhaka International University. Explore our research areas, ongoing projects, publications, and world-class research centers.",
+      content: "Discover cutting-edge research at Dhaka University. Explore our research areas, ongoing projects, publications, and world-class research centers."
     },
     {
       name: "keywords",
-      content:
-        "university research, research projects, academic publications, research centers, innovation, scientific research",
+      content: "research, academic research, research centers, publications, innovation, research projects"
     },
     {
       property: "og:title",
-      content: "Research - Dhaka International University",
+      content: "Research - Dhaka University"
     },
     {
       property: "og:description",
-      content:
-        "Leading research initiatives driving innovation and creating solutions for tomorrow's challenges.",
+      content: "Comprehensive research information and academic excellence at Dhaka University."
     },
     {
       property: "og:type",
-      content: "website",
+      content: "website"
     },
     {
       name: "twitter:card",
-      content: "summary_large_image",
-    },
-  ],
-});
+      content: "summary_large_image"
+    }
+  ]
+})
 </script>

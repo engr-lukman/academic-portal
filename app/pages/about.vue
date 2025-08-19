@@ -6,12 +6,12 @@
 
 <script setup>
 useHead({
-  title: "About Us - Dhaka International University",
+  title: "About Us - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Learn about Dhaka International University's mission, vision, history, leadership, and commitment to academic excellence and innovation.",
+        "Learn about Dhaka University's mission, vision, history, leadership, and commitment to academic excellence and innovation.",
     },
     {
       name: "keywords",
@@ -20,7 +20,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "About Us - Dhaka International University",
+      content: "About Us - Dhaka University",
     },
     {
       property: "og:description",

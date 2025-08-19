@@ -6,12 +6,12 @@
 
 <script setup>
 useHead({
-  title: "Faculty - Dhaka International University",
+  title: "Faculty - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Meet our distinguished faculty at Dhaka International University. Learn about their expertise, research, and academic achievements.",
+        "Meet our distinguished faculty at Dhaka University. Learn about their expertise, research, and academic achievements.",
     },
     {
       name: "keywords",
@@ -20,7 +20,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Faculty - Dhaka International University",
+      content: "Faculty - Dhaka University",
     },
     {
       property: "og:description",

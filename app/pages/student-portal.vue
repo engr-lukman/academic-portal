@@ -6,12 +6,12 @@
 
 <script setup>
 useHead({
-  title: "Student Portal - Dhaka International University",
+  title: "Student Portal - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Access your digital services, academic tools, and resources through the Dhaka International University Student Portal.",
+        "Access your digital services, academic tools, and resources through the Dhaka University Student Portal.",
     },
     {
       name: "keywords",
@@ -20,7 +20,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Student Portal - Dhaka International University",
+      content: "Student Portal - Dhaka University",
     },
     {
       property: "og:description",

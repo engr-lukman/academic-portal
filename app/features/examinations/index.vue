@@ -10,12 +10,12 @@
 
 <script setup>
 useHead({
-  title: "Examinations - Dhaka International University",
+  title: "Examinations - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Access examination schedules, policies, procedures, and results at Dhaka International University. Stay updated with exam dates and requirements.",
+        "Access examination schedules, policies, procedures, and results at Dhaka University. Stay updated with exam dates and requirements.",
     },
     {
       name: "keywords",
@@ -24,7 +24,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Examinations - Dhaka International University",
+      content: "Examinations - Dhaka University",
     },
     {
       property: "og:description",

@@ -6,12 +6,12 @@
 
 <script setup>
 useHead({
-  title: "Academic Programs - Dhaka International University",
+  title: "Academic Programs - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Explore our comprehensive academic programs including undergraduate, graduate, and professional degrees across various disciplines at Dhaka International University.",
+        "Explore our comprehensive academic programs including undergraduate, graduate, and professional degrees across various disciplines at Dhaka University.",
     },
     {
       name: "keywords",
@@ -20,7 +20,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Academic Programs - Dhaka International University",
+      content: "Academic Programs - Dhaka University",
     },
     {
       property: "og:description",

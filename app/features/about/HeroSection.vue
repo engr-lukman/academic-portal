@@ -37,7 +37,7 @@
         </div>
         <div class="fade-in">
           <NuxtImg
-            src="/images/about-hero.jpg"
+            src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
             alt="About Our Institution"
             class="h-auto w-full rounded-lg shadow-2xl"
             placeholder

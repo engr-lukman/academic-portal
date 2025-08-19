@@ -12,12 +12,12 @@
 
 <script setup>
 useHead({
-  title: "Campus Life - Dhaka International University",
+  title: "Campus Life - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Experience vibrant campus life at Dhaka International University. Discover student activities, modern facilities, housing options, dining services, and recreational opportunities.",
+        "Experience vibrant campus life at Dhaka University. Discover student activities, modern facilities, housing options, dining services, and recreational opportunities.",
     },
     {
       name: "keywords",
@@ -26,7 +26,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Campus Life - Dhaka International University",
+      content: "Campus Life - Dhaka University",
     },
     {
       property: "og:description",

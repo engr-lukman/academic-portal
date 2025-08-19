@@ -37,7 +37,7 @@
         </div>
         <div class="fade-in">
           <NuxtImg
-            src="/images/academics-hero.jpg"
+            src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
             alt="Academic Excellence"
             class="h-auto w-full rounded-lg shadow-2xl"
             placeholder

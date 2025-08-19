@@ -4,12 +4,12 @@
 
 <script setup>
 useHead({
-  title: "Contact Us - Dhaka International University",
+  title: "Contact Us - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Contact Dhaka International University. Find our location, phone numbers, email addresses, and contact forms for admissions, academics, and general inquiries.",
+        "Contact Dhaka University. Find our location, phone numbers, email addresses, and contact forms for admissions, academics, and general inquiries.",
     },
     {
       name: "keywords",
@@ -18,7 +18,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Contact Us - Dhaka International University",
+      content: "Contact Us - Dhaka University",
     },
     {
       property: "og:description",

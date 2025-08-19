@@ -11,12 +11,12 @@
 
 <script setup>
 useHead({
-  title: "Research - Dhaka International University",
+  title: "Research - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Discover cutting-edge research at Dhaka International University. Explore our research areas, ongoing projects, publications, and world-class research centers.",
+        "Discover cutting-edge research at Dhaka University. Explore our research areas, ongoing projects, publications, and world-class research centers.",
     },
   ],
 });

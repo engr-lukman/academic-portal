@@ -1,9 +1,9 @@
 {
   "app": {
-    "title": "Academic Portal",
-    "welcome": "Welcome to Academic Portal",
+    "title": "Dhaka University Academic Portal",
+    "welcome": "Welcome to Dhaka University",
     "description": "Excellence in Education - Shaping Tomorrow's Leaders",
-    "copyright": "© {year} Academic Portal. All rights reserved."
+    "copyright": "© {year} Dhaka University. All rights reserved."
   },
   "nav": {
     "home": "Home",
@@ -39,7 +39,7 @@
   },
   "hero": {
     "title": "Excellence in Education",
-    "subtitle": "Shaping Tomorrow's Leaders",
+    "subtitle": "Shaping Tomorrow's Leaders at Dhaka University",
     "description": "Join our prestigious academic community where innovation meets tradition, and every student is empowered to achieve their highest potential.",
     "apply_admission": "Apply for Admission",
     "explore_programs": "Explore Programs"
@@ -385,7 +385,7 @@
       },
       "email": {
         "title": "Email Address",
-        "value": "info@academicportal.edu"
+        "value": "support@du.edu.bd"
       },
       "hours": {
         "title": "Office Hours",
@@ -835,7 +835,7 @@
         },
         "email": {
           "title": "Email Support",
-          "address": "support@diu.edu.bd"
+          "address": "support@du.edu.bd"
         },
         "chat": "Start Live Chat",
         "contact": "Contact Support"

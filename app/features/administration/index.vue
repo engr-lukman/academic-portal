@@ -11,12 +11,12 @@
 
 <script setup>
 useHead({
-  title: "Administration - Dhaka International University",
+  title: "Administration - Dhaka University",
   meta: [
     {
       name: "description",
       content:
-        "Learn about university administration, leadership team, departments, services, and governance structure at Dhaka International University.",
+        "Learn about university administration, leadership team, departments, services, and governance structure at Dhaka University.",
     },
     {
       name: "keywords",
@@ -25,7 +25,7 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Administration - Dhaka International University",
+      content: "Administration - Dhaka University",
     },
     {
       property: "og:description",

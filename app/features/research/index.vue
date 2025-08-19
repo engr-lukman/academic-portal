@@ -2,9 +2,9 @@
   <div>
     <ResearchHeroSection />
     <ResearchAreasSection />
-    <ProjectsSection />
-    <PublicationsSection />
-    <CentersSection />
+    <ResearchProjectsSection />
+    <ResearchPublicationsSection />
+    <ResearchCentersSection />
     <ResearchCallToActionSection />
   </div>
 </template>

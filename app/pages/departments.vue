@@ -1,5 +1,5 @@
 <template>
   <div>
-    <DepartmentsIndex />
+    <Departments />
   </div>
 </template>

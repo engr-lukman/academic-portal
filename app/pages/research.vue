@@ -1,5 +1,5 @@
 <template>
   <div>
-    <ResearchIndex />
+    <Research />
   </div>
 </template>

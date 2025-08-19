@@ -1,5 +1,5 @@
 <template>
   <div>
-    <AdmissionsIndex />
+    <Admissions />
   </div>
 </template>

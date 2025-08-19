@@ -563,12 +563,33 @@
   "departments": {
     "title": "Academic Departments",
     "subtitle": "Specialized Learning Areas",
-    "description": "Our departments offer specialized education and research opportunities across various disciplines, led by expert faculty and supported by state-of-the-art facilities."
+    "description": "Our departments offer specialized education and research opportunities across various disciplines, led by expert faculty and supported by state-of-the-art facilities.",
+    "overview": {
+      "title": "Department Overview",
+      "subtitle": "Comprehensive programs designed for academic excellence and career success"
+    },
+    "faculty": {
+      "title": "Department Faculty",
+      "subtitle": "Experienced educators and researchers leading academic excellence",
+      "view_all": "View All Faculty"
+    },
+    "programs": {
+      "title": "Programs Offered",
+      "subtitle": "Comprehensive degree programs at undergraduate and graduate levels"
+    },
+    "cta": {
+      "title": "Explore Academic Excellence",
+      "subtitle": "Discover our diverse academic departments and find the perfect program for your career goals and interests."
+    }
   },
   "faculty": {
     "title": "Our Faculty",
     "subtitle": "Expert Educators & Researchers",
     "description": "Meet our distinguished faculty members who bring expertise, passion, and dedication to education and research.",
+    "profiles": {
+      "title": "Faculty Profiles",
+      "subtitle": "Meet our accomplished educators and researchers who are leaders in their fields"
+    },
     "expertise": {
       "title": "Faculty Expertise",
       "subtitle": "Leading experts in their fields",
@@ -587,10 +608,18 @@
     },
     "achievements": {
       "title": "Faculty Achievements",
+      "subtitle": "Recognition and awards honoring our faculty's outstanding contributions to education and research",
       "publications": "500+ Research Publications",
       "grants": "$10M+ Research Grants",
       "awards": "50+ Teaching Awards",
-      "patents": "25+ Patents Filed"
+      "patents": "25+ Patents Filed",
+      "recent_awards": {
+        "title": "Recent Awards & Recognition"
+      }
+    },
+    "cta": {
+      "title": "Join Our Faculty",
+      "subtitle": "Become part of our distinguished academic community and contribute to excellence in education and research."
     }
   },
   "research": {
@@ -750,6 +779,114 @@
       "subtitle": "Experience vibrant campus community life with endless opportunities for growth, learning, and connection",
       "exploreActivities": "Explore Activities",
       "viewHousing": "View Housing",
+      "stats": {
+        "clubs": "Student Clubs",
+        "events": "Annual Events",
+        "sportsTeams": "Sports Teams",
+        "residenceHalls": "Residence Halls"
+      }
+    },
+    "activities": {
+      "title": "Student Activities",
+      "subtitle": "Diverse opportunities for engagement and personal growth",
+      "featured": {
+        "title": "Featured Activity"
+      },
+      "meetingTime": "Meeting Time",
+      "joinClub": "Join Club",
+      "organizations": {
+        "title": "Student Organizations",
+        "subtitle": "Over 100 clubs and organizations to explore your interests",
+        "stats": {
+          "clubs": "Active Clubs",
+          "events": "Events Per Year",
+          "sportsTeams": "Sports Teams"
+        },
+        "viewAll": "View All Organizations"
+      }
+    },
+    "dining": {
+      "title": "Dining Services",
+      "subtitle": "Delicious and nutritious dining options across campus",
+      "viewMenu": "View Menu",
+      "hours": "Hours",
+      "plans": {
+        "title": "Meal Plans",
+        "subtitle": "Flexible dining options to fit your lifestyle",
+        "select": "Select Plan"
+      },
+      "nutrition": {
+        "title": "Nutrition & Wellness",
+        "description": "Healthy dining options with detailed nutritional information"
+      }
+    },
+    "housing": {
+      "title": "Student Housing",
+      "subtitle": "Comfortable and modern living spaces designed for student success",
+      "apply": "Apply for Housing",
+      "capacity": "Capacity",
+      "rooms": "Rooms Available",
+      "services": {
+        "title": "Housing Services",
+        "subtitle": "Comprehensive support for residential students"
+      }
+    },
+    "recreation": {
+      "title": "Recreation & Wellness",
+      "subtitle": "State-of-the-art facilities for fitness, sports, and wellness",
+      "facilities": "Facilities",
+      "schedule": "Schedule",
+      "free": "Free Access",
+      "joinProgram": "Join Program",
+      "programs": {
+        "title": "Recreation Programs"
+      },
+      "wellness": {
+        "title": "Wellness Center",
+        "description": "Comprehensive fitness and wellness programs for the campus community",
+        "explore": "Explore Wellness",
+        "stats": {
+          "members": "Active Members",
+          "classes": "Fitness Classes",
+          "courts": "Sports Courts",
+          "pools": "Swimming Pools",
+          "trainers": "Personal Trainers",
+          "access": "24/7 Access"
+        }
+      }
+    },
+    "facilities": {
+      "title": "Campus Facilities",
+      "subtitle": "Modern facilities designed to enhance your campus experience",
+      "capacity": "Capacity",
+      "hours": "Operating Hours",
+      "openHours": "Open Hours",
+      "viewDetails": "View Details",
+      "virtualTour": "Virtual Tour",
+      "featured": {
+        "badge": "Featured Facility"
+      }
+    },
+    "cta": {
+      "title": "Experience Campus Life",
+      "subtitle": "Join our vibrant community and make lifelong connections while pursuing your academic goals",
+      "applyNow": "Apply Now",
+      "scheduleTour": "Schedule Tour",
+      "getInvolved": {
+        "title": "Get Involved",
+        "description": "Join clubs, organizations, and activities that match your interests",
+        "action": "Explore Organizations"
+      },
+      "visitCampus": {
+        "title": "Visit Campus",
+        "description": "Schedule a campus tour and experience our facilities firsthand",
+        "action": "Schedule Tour"
+      },
+      "resources": {
+        "title": "Student Resources",
+        "description": "Access comprehensive support services and academic resources",
+        "action": "View Resources"
+      },
       "stats": {
         "clubs": "Student Clubs",
         "events": "Annual Events",

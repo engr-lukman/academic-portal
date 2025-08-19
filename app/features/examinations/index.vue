@@ -1,9 +1,9 @@
 <template>
   <div>
     <ExaminationsHeroSection />
-    <ExamScheduleSection />
-    <ExamPoliciesSection />
-    <ResultsSection />
+    <ExaminationsExamScheduleSection />
+    <ExaminationsExamPoliciesSection />
+    <ExaminationsResultsSection />
     <ExaminationsCallToActionSection />
   </div>
 </template>

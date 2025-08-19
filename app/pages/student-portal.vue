@@ -1,6 +1,6 @@
 <template>
   <div>
-    <StudentPortalIndex />
+    <StudentPortal />
   </div>
 </template>
 

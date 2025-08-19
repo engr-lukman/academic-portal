@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ExaminationsIndex />
+    <Examinations />
   </div>
 </template>
 

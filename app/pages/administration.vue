@@ -1,6 +1,6 @@
 <template>
   <div>
-    <AdministrationIndex />
+    <Administration />
   </div>
 </template>
 

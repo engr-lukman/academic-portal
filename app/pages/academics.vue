@@ -1,6 +1,6 @@
 <template>
   <div>
-    <AcademicsIndex />
+    <Academics />
   </div>
 </template>
 

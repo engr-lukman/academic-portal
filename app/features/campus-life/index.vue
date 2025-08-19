@@ -1,11 +1,11 @@
 <template>
   <div>
     <CampusLifeHeroSection />
-    <FacilitiesSection />
-    <StudentActivitiesSection />
-    <HousingSection />
-    <DiningSection />
-    <RecreationSection />
+    <CampusLifeFacilitiesSection />
+    <CampusLifeStudentActivitiesSection />
+    <CampusLifeHousingSection />
+    <CampusLifeDiningSection />
+    <CampusLifeRecreationSection />
     <CampusLifeCallToActionSection />
   </div>
 </template>

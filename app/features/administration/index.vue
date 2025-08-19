@@ -1,10 +1,10 @@
 <template>
   <div>
     <AdministrationHeroSection />
-    <LeadershipSection />
-    <DepartmentsSection />
-    <ServicesSection />
-    <GovernanceSection />
+    <AdministrationLeadershipSection />
+    <AdministrationDepartmentsSection />
+    <AdministrationServicesSection />
+    <AdministrationGovernanceSection />
     <AdministrationCallToActionSection />
   </div>
 </template>

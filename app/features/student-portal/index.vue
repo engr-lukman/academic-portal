@@ -1,9 +1,9 @@
 <template>
   <div>
     <StudentPortalHeroSection />
-    <DigitalServicesSection />
-    <AcademicToolsSection />
-    <ResourcesSection />
+    <StudentPortalDigitalServicesSection />
+    <StudentPortalAcademicToolsSection />
+    <StudentPortalResourcesSection />
     <StudentPortalCallToActionSection />
   </div>
 </template>

@@ -385,7 +385,7 @@
       },
       "email": {
         "title": "Email Address",
-        "value": "support@du.edu.bd"
+        "value": "support{'@'}du.edu.bd"
       },
       "hours": {
         "title": "Office Hours",
@@ -744,6 +744,20 @@
       }
     }
   },
+  "campusLife": {
+    "hero": {
+      "title": "Campus Life",
+      "subtitle": "Experience vibrant campus community life with endless opportunities for growth, learning, and connection",
+      "exploreActivities": "Explore Activities",
+      "viewHousing": "View Housing",
+      "stats": {
+        "clubs": "Student Clubs",
+        "events": "Annual Events",
+        "sportsTeams": "Sports Teams",
+        "residenceHalls": "Residence Halls"
+      }
+    }
+  },
   "studentPortal": {
     "title": "Student Portal",
     "subtitle": "Your Academic Hub",
@@ -835,7 +849,7 @@
         },
         "email": {
           "title": "Email Support",
-          "address": "support@du.edu.bd"
+          "address": "support{'@'}du.edu.bd"
         },
         "chat": "Start Live Chat",
         "contact": "Contact Support"

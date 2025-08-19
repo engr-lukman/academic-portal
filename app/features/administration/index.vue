@@ -1,6 +1,11 @@
 <template>
   <div>
-    <AdministrationIndex />
+    <AdministrationHeroSection />
+    <LeadershipSection />
+    <DepartmentsSection />
+    <ServicesSection />
+    <GovernanceSection />
+    <AdministrationCallToActionSection />
   </div>
 </template>
 

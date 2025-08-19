@@ -744,31 +744,69 @@
       }
     }
   },
-  "student_portal": {
+  "studentPortal": {
     "title": "Student Portal",
     "subtitle": "Your Academic Hub",
     "description": "Access your academic information, resources, and services through our comprehensive student portal system.",
+    "hero": {
+      "title": "Student Portal",
+      "subtitle": "Your gateway to digital services, academic tools, and university resources",
+      "cta": {
+        "login": "Login Now",
+        "explore": "Explore Services"
+      },
+      "login": {
+        "title": "Quick Login",
+        "studentId": "Student ID",
+        "password": "Password",
+        "submit": "Login",
+        "forgotPassword": "Forgot Password?"
+      }
+    },
+    "stats": {
+      "activeStudents": "Active Students",
+      "access": "Portal Access",
+      "services": "Digital Services",
+      "uptime": "System Uptime"
+    },
     "services": {
-      "title": "Portal Services",
-      "academic": {
-        "title": "Academic Records",
-        "description": "Access grades, transcripts, course schedules, and degree progress tracking."
+      "title": "Digital Services",
+      "subtitle": "Comprehensive digital solutions for all your academic needs",
+      "quickActions": {
+        "title": "Quick Actions"
+      }
+    },
+    "tools": {
+      "title": "Academic Tools",
+      "subtitle": "Powerful tools to enhance your learning experience",
+      "learning": {
+        "title": "Learning Management"
       },
-      "registration": {
-        "title": "Course Registration",
-        "description": "Register for classes, view course availability, and manage your academic schedule."
-      },
-      "financial": {
-        "title": "Financial Services",
-        "description": "View billing information, make payments, and access financial aid details."
+      "productivity": {
+        "title": "Productivity Tools"
       },
       "communication": {
-        "title": "Communication Tools",
-        "description": "Email, announcements, and direct communication with faculty and staff."
+        "title": "Communication & Collaboration"
       }
     },
     "resources": {
       "title": "Student Resources",
+      "subtitle": "Everything you need for academic success and campus life",
+      "academic": {
+        "title": "Academic Resources"
+      },
+      "services": {
+        "title": "Student Services"
+      },
+      "quickLinks": {
+        "title": "Quick Links"
+      },
+      "help": {
+        "title": "Need Help?",
+        "subtitle": "Our support team is available 24/7 to assist you with any questions or technical issues",
+        "chat": "Live Chat",
+        "guide": "User Guide"
+      },
       "library": {
         "title": "Library Access",
         "description": "Search catalog, reserve books, and access digital resources."
@@ -778,8 +816,34 @@
         "description": "Job postings, career counseling, and professional development resources."
       },
       "support": {
-        "title": "Academic Support",
-        "description": "Tutoring services, study groups, and academic assistance programs."
+        "title": "Student Support",
+        "description": "Academic advising, counseling services, and student assistance programs."
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Access your student portal and unlock all digital services",
+      "support": {
+        "title": "24/7 Student Support",
+        "hours": {
+          "title": "Support Hours",
+          "time": "Available 24/7"
+        },
+        "phone": {
+          "title": "Phone Support",
+          "number": "+880-1234-567890"
+        },
+        "email": {
+          "title": "Email Support",
+          "address": "support@diu.edu.bd"
+        },
+        "chat": "Start Live Chat",
+        "contact": "Contact Support"
+      },
+      "app": {
+        "title": "Download Mobile App",
+        "ios": "Download for iOS",
+        "android": "Download for Android"
       }
     }
   },
@@ -787,8 +851,35 @@
     "title": "Examinations",
     "subtitle": "Assessment & Evaluation",
     "description": "Information about examination schedules, procedures, and academic evaluation methods to ensure fair and comprehensive assessment.",
+    "hero": {
+      "title": "Examination Center",
+      "subtitle": "Your gateway to academic assessment information, schedules, and results",
+      "cta": {
+        "schedule": "View Schedule",
+        "results": "Check Results"
+      }
+    },
+    "stats": {
+      "semesters": "Semesters Per Year",
+      "passRate": "Pass Rate",
+      "support": "Support Available",
+      "digital": "Digital Results"
+    },
     "schedule": {
       "title": "Examination Schedule",
+      "subtitle": "Stay updated with current and upcoming examination dates, times, and venues",
+      "current": {
+        "title": "Current Semester"
+      },
+      "upcoming": {
+        "title": "Upcoming Exams"
+      },
+      "download": {
+        "title": "Download Schedule",
+        "subtitle": "Get your examination schedule in multiple formats",
+        "pdf": "Download PDF",
+        "calendar": "Add to Calendar"
+      },
       "midterm": {
         "title": "Midterm Examinations",
         "description": "Mid-semester assessments scheduled during the 8th week of each semester."
@@ -803,7 +894,21 @@
       }
     },
     "policies": {
-      "title": "Examination Policies",
+      "title": "Examination Policies & Procedures",
+      "subtitle": "Important guidelines and rules for all university examinations",
+      "general": {
+        "title": "General Policies"
+      },
+      "rules": {
+        "title": "Examination Rules"
+      },
+      "guidelines": {
+        "title": "Important Guidelines"
+      },
+      "integrity": {
+        "title": "Academic Integrity",
+        "subtitle": "Upholding the highest standards of academic honesty"
+      },
       "conduct": {
         "title": "Academic Integrity",
         "description": "Guidelines for maintaining academic honesty and ethical conduct during examinations."
@@ -815,6 +920,45 @@
       "procedures": {
         "title": "Exam Procedures",
         "description": "Rules and regulations governing examination conduct and procedures."
+      }
+    },
+    "results": {
+      "title": "Examination Results",
+      "subtitle": "Access your examination results and academic transcripts",
+      "student": {
+        "title": "Student Results Portal",
+        "subtitle": "Enter your details to check examination results",
+        "studentId": "Student ID",
+        "studentIdPlaceholder": "Enter your student ID",
+        "semester": "Semester",
+        "selectSemester": "Select semester",
+        "checkResults": "Check Results"
+      },
+      "general": {
+        "title": "Results Information",
+        "subtitle": "Latest updates on examination results and publications",
+        "latestResults": "Latest Results",
+        "downloadOptions": "Download Options",
+        "transcriptPdf": "Official Transcript (PDF)",
+        "certificate": "Degree Certificate"
+      },
+      "grading": {
+        "title": "Grading System"
+      },
+      "stats": {
+        "passRate": "Overall Pass Rate",
+        "averageGpa": "Average GPA",
+        "resultTime": "Average Result Time"
+      }
+    },
+    "cta": {
+      "title": "Need Assistance?",
+      "subtitle": "Get help with examinations, schedules, and results",
+      "support": {
+        "title": "Contact Examination Support",
+        "subtitle": "Our team is here to help with any examination-related queries",
+        "call": "Call Support",
+        "email": "Email Support"
       }
     }
   },

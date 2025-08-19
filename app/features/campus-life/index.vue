@@ -1,6 +1,12 @@
 <template>
   <div>
-    <CampusLifeIndex />
+    <CampusLifeHeroSection />
+    <FacilitiesSection />
+    <StudentActivitiesSection />
+    <HousingSection />
+    <DiningSection />
+    <RecreationSection />
+    <CampusLifeCallToActionSection />
   </div>
 </template>
 

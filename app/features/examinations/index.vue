@@ -1,6 +1,10 @@
 <template>
   <div>
-    <ExaminationsIndex />
+    <ExaminationsHeroSection />
+    <ExamScheduleSection />
+    <ExamPoliciesSection />
+    <ResultsSection />
+    <ExaminationsCallToActionSection />
   </div>
 </template>
 

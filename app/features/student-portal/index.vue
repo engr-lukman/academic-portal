@@ -1,6 +1,10 @@
 <template>
   <div>
-    <StudentPortalIndex />
+    <StudentPortalHeroSection />
+    <DigitalServicesSection />
+    <AcademicToolsSection />
+    <ResourcesSection />
+    <StudentPortalCallToActionSection />
   </div>
 </template>
 
